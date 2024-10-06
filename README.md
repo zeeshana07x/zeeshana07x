@@ -1,56 +1,80 @@
 ---
+
 <div align="center">
   <img src="./header-image.png" width="800" height="300" alt="Header Image"/>
 </div>
----
-### 👋 Hello, World! I'm Zeeshan
 
-I'm a passionate **Full-Stack Developer** always looking for the next challenge in web development.  
-- 🔭 **Currently working on:** SaaS platforms to simplify daily tasks.
-- 🌱 **Learning & Exploring:** Continuously expanding my knowledge on **Next.js**, **React Native**, and **PostgreSQL**.
-- ✍️ **Content Creator:** I love sharing my knowledge through technical writing.
-- 💻 **Problem Solver:** I enjoy cracking algorithm problems on **LeetCode** and staying sharp.
-- 🤝 **Let's talk about:** Anything related to web development, SaaS, and Linux!
+---
+
+<h1 align="center">👋 Hey there! I'm Zeeshan Ali </h1>
+
+<p align="center">
+  <em>A passionate Full-Stack Developer turning ideas into digital solutions!</em>  
+  <br/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>  
+</p>
+
+---
+
+### 🚀 About Me:
+
+- 💻 **Full-Stack Developer:** I build end-to-end solutions, from frontend to backend.
+- 🌱 **Learning & Growing:** Currently diving deeper into **Next.js**, **React Native**, and cloud services.
+- ✍️ **Content Creator:** Writing articles to share my tech journey and coding tips.
+- 🧩 **Problem Solver:** I enjoy cracking coding puzzles on **LeetCode** and contributing to open-source projects.
+- 🎮 **Hobbies:** Besides coding, I love gaming and staying updated on tech innovations.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200" height="150"/>
 </div>
 
 ---
 
-### 🛠️ My Development Toolbox:
+### 🛠️ My Tech Stack:
+
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-informational?style=for-the-badge&logo=arch-linux&logoColor=white&color=1793D1"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC"/>
+  <img src="https://img.shields.io/badge/Cloud-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=79589F"/>
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Next.js-informational?style=for-the-badge&logo=next.js&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-informational?style=for-the-badge&logo=tailwind-css&logoColor=white&color=38B2AC"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=336791"/>
+  <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" height="150"/>
 </div>
 
 ---
 
-### 🔥 GitHub Stats:
+### 📈 GitHub Stats:
+
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=zeeshana07x&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=zeeshana07x&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshana07x&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="150"/>
 </div>
 
 ---
 
-### 🚀 Fun Facts:
-- 🖥️ **I use Arch Linux**, by the way!
-- 🎮 **When I'm not coding**, I'm either gaming or reading tech articles.
-- ☕ **Favorite stack fuel:** Coffee, code, repeat.
+### 💡 Fun Facts:
 
----
+- 🖥️ **I use Arch Linux** – I love customizing my system for ultimate productivity.
+- 🕹️ **Gaming:** Whether it's a quick match or a tech-inspired game, I'm always up for it.
+- ☕ **Fuel:** Coffee powers my code and creativity!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="200" height="150"/>
   <br>
-  <strong>Let's connect and build something amazing together!</strong>
+  <strong>Let’s connect and build something great together!</strong>
 </div>
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="50px"/>  
+</p>
