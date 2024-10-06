@@ -6,31 +6,32 @@
 
 ---
 
-<h1 align="center">👋 Hey there! I'm Zeeshan Ali </h1>
+<h1 align="center">👋 Konnichiwa! I'm Zeeshan Ali </h1>
 
 <p align="center">
-  <em>A passionate Full-Stack Developer turning ideas into digital solutions!</em>  
+  <em>Full-Stack Developer & Anime Enthusiast | Turning ideas into code & binging on episodes!</em>  
   <br/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </p>
 
 ---
 
 ### 🚀 About Me:
 
-- 💻 **Full-Stack Developer:** I build end-to-end solutions, from frontend to backend.
-- 🌱 **Learning & Growing:** Currently diving deeper into **Next.js**, **React Native**, and cloud services.
-- ✍️ **Content Creator:** Writing articles to share my tech journey and coding tips.
-- 🧩 **Problem Solver:** I enjoy cracking coding puzzles on **LeetCode** and contributing to open-source projects.
-- 🎮 **Hobbies:** Besides coding, I love gaming and staying updated on tech innovations.
+- 💻 **Code by Day:** Full-Stack Developer building web apps and SaaS platforms.
+- 🌱 **Learner by Night:** Continuously learning about **Next.js**, **React Native**, and cloud technologies.
+- ✍️ **Technical Writer:** Sharing my journey and experiences through blogs and tutorials.
+- 🔍 **Problem Solver:** Tackling coding challenges on **LeetCode** to keep my skills sharp.
+- 🎮 **Hobbies:** When not coding, I’m either watching anime, gaming, or sipping coffee.
+- 🍿 **Current Anime Watchlist:** Always down for some action-packed anime marathons—recommend me something cool!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="200" height="150"/>
 </div>
 
 ---
 
-### 🛠️ My Tech Stack:
+### 🛠️ My Tech Toolbox:
 
 <div align="center">
   <img src="https://img.shields.io/badge/OS-Arch%20Linux-informational?style=for-the-badge&logo=arch-linux&logoColor=white&color=1793D1"/>
@@ -61,20 +62,20 @@
 
 ---
 
-### 💡 Fun Facts:
+### 🎮 Fun Facts:
 
-- 🖥️ **I use Arch Linux** – I love customizing my system for ultimate productivity.
-- 🕹️ **Gaming:** Whether it's a quick match or a tech-inspired game, I'm always up for it.
-- ☕ **Fuel:** Coffee powers my code and creativity!
+- 🖥️ **I use Arch Linux** – love customizing my setup for maximum productivity.
+- 🎮 **Anime & Gaming:** From marathoning episodes of **Naruto** to slaying bosses in **Elden Ring**.
+- ☕ **Fuel of Choice:** Coffee powers my creativity and long coding sessions!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="200" height="150"/>
-  <br>
-  <strong>Let’s connect and build something great together!</strong>
+  <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="200" height="150"/>
+  <br/>
+  <strong>Let’s connect and create something awesome together!</strong>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="50px"/>  
+  <img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" width="50px"/>  
 </p>
