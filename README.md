@@ -6,10 +6,10 @@
 
 ---
 
-<h1 align="center">👋 Konnichiwa! I'm Zeeshan Ali </h1>
+<h1 align="center">👋 Hi, I'm Zeeshan Ali</h1>
 
 <p align="center">
-  <em>Full-Stack Developer & Anime Enthusiast | Turning ideas into code & binging on episodes!</em>  
+  <em>Full-Stack Developer | Passionate about building web applications!</em>  
   <br/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </p>
@@ -18,15 +18,14 @@
 
 ### 🚀 About Me:
 
-- 💻 **Code by Day:** Full-Stack Developer building web apps and SaaS platforms.
-- 🌱 **Learner by Night:** Continuously learning about **Next.js**, **React Native**, and cloud technologies.
-- ✍️ **Technical Writer:** Sharing my journey and experiences through blogs and tutorials.
-- 🔍 **Problem Solver:** Tackling coding challenges on **LeetCode** to keep my skills sharp.
-- 🎮 **Hobbies:** When not coding, I’m either watching anime, gaming, or sipping coffee.
-- 🍿 **Current Anime Watchlist:** Always down for some action-packed anime marathons—recommend me something cool!
+- 💻 **Full-Stack Developer:** I create dynamic web applications, focusing on both frontend and backend development.
+- 🌱 **Lifelong Learner:** Always exploring new technologies, especially **Next.js** and **React Native**.
+- ✍️ **Tech Writer:** I enjoy sharing insights through blog posts and tutorials.
+- 🧩 **Problem Solver:** In my free time, I tackle coding challenges on **LeetCode**.
+- 🎮 **Hobbies:** When I'm not coding, I enjoy gaming and watching anime.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"/>
 </div>
 
 ---
@@ -62,16 +61,16 @@
 
 ---
 
-### 🎮 Fun Facts:
+### 💡 Fun Facts:
 
-- 🖥️ **I use Arch Linux** – love customizing my setup for maximum productivity.
-- 🎮 **Anime & Gaming:** From marathoning episodes of **Naruto** to slaying bosses in **Elden Ring**.
-- ☕ **Fuel of Choice:** Coffee powers my creativity and long coding sessions!
+- 🖥️ **I use Arch Linux** – customizing my system for maximum productivity is a passion of mine.
+- 🎮 **Anime & Gaming:** I enjoy unwinding with a good game or an anime episode after coding sessions.
+- ☕ **Fuel of Choice:** Coffee powers my creativity and late-night coding marathons!
 
 <div align="center">
   <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="200" height="150"/>
   <br/>
-  <strong>Let’s connect and create something awesome together!</strong>
+  <strong>Let's connect and build something amazing together!</strong>
 </div>
 
 ---
