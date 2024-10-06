@@ -3,8 +3,7 @@
   <img src="./header-image.png" width="800" height="300" alt="Header Image"/>
 </div>
 ---
-
-### 👋 Hello, World! I'm Zeeshan Ali
+### 👋 Hello, World! I'm Zeeshan
 
 I'm a passionate **Full-Stack Developer** always looking for the next challenge in web development.  
 - 🔭 **Currently working on:** SaaS platforms to simplify daily tasks.
@@ -36,8 +35,6 @@ I'm a passionate **Full-Stack Developer** always looking for the next challenge 
 ### 🔥 GitHub Stats:
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=zeeshana07x&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshana07x&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </div>
 
 ---
