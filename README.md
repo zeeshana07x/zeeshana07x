@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-  <img src="./header-image.png" width="800" height="300" alt="Header Image"/>
+  <img src="./header-image.png" width="800" height="500" alt="Header Image"/>
 </div>
 
 ---
