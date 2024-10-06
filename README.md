@@ -11,7 +11,7 @@
 <p align="center">
   <em>Your friendly neighborhood Full-Stack Developer who loves turning ideas into reality!</em>  
   <br/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Wave"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" height="150" alt="Coding Gif"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" height="150" alt="Coding Animation"/>
 </div>
 
 ---
@@ -55,8 +55,8 @@
 ### 📈 My GitHub Stats:
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=zeeshana07x&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshana07x&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="150"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=zeeshana07x&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeeshana07x&show_icons=true&theme=dark&count_private=true&hide_title=true" alt="GitHub Stats" height="150" />
 </div>
 
 <div align="center">
@@ -80,5 +80,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" width="50px"/>  
+  <img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" width="50px" alt="Excited"/>
 </p>
