@@ -1,37 +1,61 @@
+---
+
 <div align="center">
-  <img src="./header-image.png" width="600" height="200"/>
+  <img src="./header-image.png" width="800" height="300" alt="Header Image"/>
 </div>
 
 ---
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-- :telescope: I’m a Software Engineer, focusing on both frontend and backend development to create web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+### 👋 Hello, World! I'm Zeeshan Ali
 
----
+I'm a passionate **Full-Stack Developer** always looking for the next challenge in web development.  
+- 🔭 **Currently working on:** SaaS platforms to simplify daily tasks.
+- 🌱 **Learning & Exploring:** Continuously expanding my knowledge on **Next.js**, **React Native**, and **PostgreSQL**.
+- ✍️ **Content Creator:** I love sharing my knowledge through technical writing.
+- 💻 **Problem Solver:** I enjoy cracking algorithm problems on **LeetCode** and staying sharp.
+- 🤝 **Let's talk about:** Anything related to web development, SaaS, and Linux!
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg#L4" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original-wordmark.svg#L1" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original-wordmark.svg#L1" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original-wordmark.svg#L1" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </div>
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zeeshana07x&theme=dark)](https://git.io/streak-stats)
+### 🛠️ My Development Toolbox:
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshana07x&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### 🔥 GitHub Stats:
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=zeeshana07x&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshana07x&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</div>
 
-💻 I use Arch btw! 🚀
+---
+
+### 🚀 Fun Facts:
+- 🖥️ **I use Arch Linux**, by the way!
+- 🎮 **When I'm not coding**, I'm either gaming or reading tech articles.
+- ☕ **Favorite stack fuel:** Coffee, code, repeat.
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100">
+  <br>
+  <strong>Let's connect and build something amazing together!</strong>
+</div>
+
+---
+
