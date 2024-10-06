@@ -6,27 +6,26 @@
 
 ---
 
-<h1 align="center">👋 Konnichiwa! I'm Zeeshan Ali </h1>
+<h1 align="center">👋 Hey there! I'm Zeeshan Ali</h1>
 
 <p align="center">
-  <em>Full-Stack Developer & Anime Enthusiast | Turning ideas into code & binging on episodes!</em>  
+  <em>Your friendly neighborhood Full-Stack Developer who loves turning ideas into reality!</em>  
   <br/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </p>
 
 ---
 
-### 🚀 About Me:
+### 🚀 A Bit About Me:
 
-- 💻 **Code by Day:** Full-Stack Developer building web apps and SaaS platforms.
-- 🌱 **Learner by Night:** Continuously learning about **Next.js**, **React Native**, and cloud technologies.
-- ✍️ **Technical Writer:** Sharing my journey and experiences through blogs and tutorials.
-- 🔍 **Problem Solver:** Tackling coding challenges on **LeetCode** to keep my skills sharp.
-- 🎮 **Hobbies:** When not coding, I’m either watching anime, gaming, or sipping coffee.
-- 🍿 **Current Anime Watchlist:** Always down for some action-packed anime marathons—recommend me something cool!
+- 💻 **Full-Stack Developer:** I create engaging web applications, diving deep into both frontend and backend magic.
+- 🌱 **Tech Explorer:** Always on the lookout for new tools and technologies, especially **Next.js** and **React Native**. The learning never stops!
+- ✍️ **Tech Writer:** I love sharing my journey and insights through articles and tutorials. Knowledge is meant to be shared!
+- 🧩 **Problem Solver:** You’ll often find me solving coding challenges on **LeetCode**—it's like a brain workout for me!
+- 🎮 **Hobbies:** When I need a break, I enjoy gaming and watching anime. Got any good recommendations? 🍿
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Anime Gif"/>
 </div>
 
 ---
@@ -48,30 +47,34 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" height="150" alt="Coding Gif"/>
 </div>
 
 ---
 
-### 📈 GitHub Stats:
+### 📈 My GitHub Stats:
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=zeeshana07x&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshana07x&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="150"/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/9rNW6QIPtZZVbX2qMo/giphy.gif" width="200" height="150" alt="Stats Animation"/>
+</div>
+
 ---
 
-### 🎮 Fun Facts:
+### 💡 Fun Facts:
 
-- 🖥️ **I use Arch Linux** – love customizing my setup for maximum productivity.
-- 🎮 **Anime & Gaming:** From marathoning episodes of **Naruto** to slaying bosses in **Elden Ring**.
-- ☕ **Fuel of Choice:** Coffee powers my creativity and long coding sessions!
+- 🖥️ **I use Arch Linux:** My setup is like my coding style—customized and unique!
+- 🎮 **Anime & Gaming:** I unwind with some great games and episodes. If you have recommendations, send them my way!  
+- ☕ **Coffee Enthusiast:** Fueling my late-night coding marathons one cup at a time.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="200" height="150" alt="Coffee Animation"/>
   <br/>
-  <strong>Let’s connect and create something awesome together!</strong>
+  <strong>Let’s connect and create something amazing together!</strong>
 </div>
 
 ---
