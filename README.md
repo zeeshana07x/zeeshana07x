@@ -6,10 +6,10 @@
 
 ---
 
-<h1 align="center">👋 Hello, I'm Zeeshan Ali!</h1>
+<h1 align="center">👋 Hello, I'm Zeeshan!</h1>
 
 <p align="center">
-  <em>Your friendly Full-Stack Developer, anime enthusiast, and tech explorer, building cool things one line of code at a time!</em>  
+  <em>A Full-Stack Developer, anime enthusiast, and tech explorer, building cool things one line of code at a time!</em>  
   <br/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Wave"/>
 </p>
