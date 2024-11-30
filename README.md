@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=neovim,npm,nodejs,rust,javascrip,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=neovim,npm,nodejs,rust,javascript,express,mongodb" />
 </div>
 
 <div align="center">
