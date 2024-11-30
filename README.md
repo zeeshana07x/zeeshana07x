@@ -30,13 +30,15 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=neovim,npm,nodejs,rust,javascrip,express,mongodb" />
-    <img src="https://skillicons.dev/icons?i=arch,linux,ts,nextjs" />
 </div>
 
-<br/>
-<hr/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=neovim,npm,nodejs,rust,javascrip,express,mongodb" />
+</div>
 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=arch,linux,ts,nextjs" />
+</div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
