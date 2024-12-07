@@ -12,9 +12,7 @@
  
  🔭 I’m currently working on my SaaS **QuickTools**
  
- 🌱 I’m currently learning **Backend Devlopment, MERN, Postgresql**
-
-⚡ Fun fact **The first computer virus was Creeper**
+ 🌱 I’m currently learning **Rust, Web3, Postgresql**
 
  </div>
  
