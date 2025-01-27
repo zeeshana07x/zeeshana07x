@@ -4,15 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zeeshan!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A fullstack developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on my SaaS **QuickTools**
- 
- 🌱 I’m currently learning **Rust, Web3, Postgresql**
+ 🔭 I’m currently working on my **Mobile Apps**
 
  </div>
  
@@ -31,12 +29,9 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=neovim,npm,nodejs,rust,javascript,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=neovim,npm,nodejs,javascript,linux,ts,nextjs" />
 </div>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=arch,linux,ts,nextjs" />
-</div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
