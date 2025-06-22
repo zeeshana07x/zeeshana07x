@@ -31,5 +31,3 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=neovim,npm,nodejs,javascript,linux,ts,nextjs" />
 </div>
-
-<hr/>
