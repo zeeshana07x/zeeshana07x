@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zeeshana07x.zeeshana07x" />
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Zeeshan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%26%20Startup%20Builder&descSize=20&descAlignY=58" />
+  <img width="100%" src="./banner.svg" alt="Zeeshan" />
 </p>
 
 <p align="center">
@@ -12,6 +12,10 @@
 
 <p align="center">
   <a href="https://github.com/zeeshana07x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Currently_Building-AI_products_%7C_Full--stack_apps_%7C_Startup_MVPs-00F5A0?style=flat-square&labelColor=0D1117" />
 </p>
 
 ---
@@ -66,10 +70,6 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshana07x&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/zeeshana07x/zeeshana07x/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
@@ -82,5 +82,3 @@
 <p align="center">
   <a href="https://github.com/zeeshana07x?tab=repositories">📊 View my repos</a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
