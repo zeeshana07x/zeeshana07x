@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zeeshana07x.zeeshana07x" />
-
 <p align="center">
   <img width="100%" src="./banner.svg" alt="Zeeshan" />
 </p>
@@ -8,14 +6,6 @@
   <a href="https://github.com/zeeshana07x">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5A0&center=true&vCenter=true&width=620&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+Zeeshan;Building+AI-powered+products;Turning+ideas+into+scalable+startups;Shipping+fast.+Learning+faster." alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zeeshana07x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀_Currently_Building-AI_products_%7C_Full--stack_apps_%7C_Startup_MVPs-00F5A0?style=flat-square&labelColor=0D1117" />
 </p>
 
 ---
