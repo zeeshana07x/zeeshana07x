@@ -11,13 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zeeshana07x.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/zeeshana07x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://twitter.com/zeeshana07x"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀_Currently_Building-AI_products_%7C_Full--stack_apps_%7C_Startup_MVPs-00F5A0?style=flat-square&labelColor=0D1117" />
 </p>
 
 ---
@@ -63,8 +57,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeeshana07x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshana07x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://img.shields.io/github/followers/zeeshana07x?style=for-the-badge&logo=github&color=00F5A0&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/zeeshana07x?affiliations=OWNER&style=for-the-badge&logo=github&color=8E2DE2&labelColor=0D1117" />
 </p>
 
 <p align="center">
@@ -86,9 +80,7 @@
 <p align="center"><i>Shipping products that matter, one startup at a time.</i></p>
 
 <p align="center">
-  <a href="https://github.com/zeeshana07x?tab=repositories">📊 Repos</a> •
-  <a href="https://zeeshana07x.github.io">🔗 Portfolio</a> •
-  <a href="https://twitter.com/zeeshana07x">🐦 Twitter</a>
+  <a href="https://github.com/zeeshana07x?tab=repositories">📊 View my repos</a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
