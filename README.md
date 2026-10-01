@@ -21,7 +21,7 @@
 
 <div align="center">
 
-  🔭 Currently building: <strong>Next.js apps, internal tools, AI prototypes, and embedded/IoT experiments</strong>
+  🔭 Currently building: <strong>Next.js apps, AI products, and innovative web experiences</strong>
 
 </div>
 
@@ -35,33 +35,30 @@
 
 <hr />
 
-<h2 align="center">🚀 Recent Projects</h2>
+<h2 align="center">🚀 Featured Products & Projects</h2>
 
-- [storycast](https://github.com/zeeshana07x/storycast) — AI-driven storytelling and content creation app
-- [nexus](https://github.com/zeeshana07x/nexus) — modern product/platform build focused on workflow and UX
-- [tally](https://github.com/zeeshana07x/tally) — tracking and productivity dashboard project
-- [superkit](https://github.com/zeeshana07x/superkit) — starter kit and reusable app foundation
-- [IncidentPilot](https://github.com/zeeshana07x/IncidentPilot) — Python-based incident analysis and operational tooling
-- [svgedit](https://github.com/zeeshana07x/svgedit) — Rust-powered SVG editing tool
-- [fire-shots](https://github.com/zeeshana07x/fire-shots) — TypeScript project focused on modern app experiences
-- [e-com-nextjs](https://github.com/zeeshana07x/e-com-nextjs) — e-commerce storefront built with Next.js
+| Project | Description | Link |
+|---------|-------------|------|
+| **ShowMeYour.site** | Startup Directory - Discover and showcase innovative startups | [Visit →](https://showmeyour.site) |
+| **Reeler.pro** | AI Ad Builder for High-Converting Video Ads | [Visit →](https://reeler.pro) |
+| **MagicKite.video** | AI-driven storytelling and content creation app | [Visit →](https://magickite.video) |
 
 <hr />
 
 <h2 align="center">💡 What I like building</h2>
 
 - Full-stack web apps with modern UX
+- AI-powered products and automation workflows
+- Video generation and content creation tools
 - Developer tooling and productivity products
-- AI-assisted features and workflow automation
-- Embedded/IoT concepts and hardware-connected software
 - Clean, scalable interfaces and thoughtful product experiences
 
 <hr />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Embedded-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Video%20Tech-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Product%20Building-purple?style=for-the-badge" />
 </p>
 
 <p align="center">
