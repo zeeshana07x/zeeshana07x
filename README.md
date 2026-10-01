@@ -35,17 +35,16 @@
 
 <hr />
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Recent Projects</h2>
 
-- [e-com-nextjs](https://github.com/zeeshana07x/e-com-nextjs) — modern e-commerce storefront and shopping experience
-- [fire-shots](https://github.com/zeeshana07x/fire-shots) — TypeScript-powered product or app project
-- [IncidentPilot](https://github.com/zeeshana07x/IncidentPilot) — Python-based incident / analysis tool
-- [nexus](https://github.com/zeeshana07x/nexus) — TypeScript app focused on product/platform work
-- [tally](https://github.com/zeeshana07x/tally) — TypeScript project for tracking or workflow tools
-- [superkit](https://github.com/zeeshana07x/superkit) — toolkit / starter app for rapid development
-- [svgedit](https://github.com/zeeshana07x/svgedit) — Rust-based SVG editing tool
-- [esp32_ctrl](https://github.com/zeeshana07x/esp32_ctrl) — embedded control and IoT project
-- [storycast](https://github.com/zeeshana07x/storycast) — creative storytelling / content app
+- [storycast](https://github.com/zeeshana07x/storycast) — AI-driven storytelling and content creation app
+- [nexus](https://github.com/zeeshana07x/nexus) — modern product/platform build focused on workflow and UX
+- [tally](https://github.com/zeeshana07x/tally) — tracking and productivity dashboard project
+- [superkit](https://github.com/zeeshana07x/superkit) — starter kit and reusable app foundation
+- [IncidentPilot](https://github.com/zeeshana07x/IncidentPilot) — Python-based incident analysis and operational tooling
+- [svgedit](https://github.com/zeeshana07x/svgedit) — Rust-powered SVG editing tool
+- [fire-shots](https://github.com/zeeshana07x/fire-shots) — TypeScript project focused on modern app experiences
+- [e-com-nextjs](https://github.com/zeeshana07x/e-com-nextjs) — e-commerce storefront built with Next.js
 
 <hr />
 
