@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zeeshana07x.zeeshana07x" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Zeeshan;+Full-Stack+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Zeeshan;+Full-Stack+Developer+%26+Startup+Builder;" />
 </h1>
 
-<h3 align="center">I design and build practical products for the web, AI workflows, and connected systems.</h3>
+<h3 align="center">Building AI-powered products and full-stack web experiences. Turning ideas into scalable startups.</h3>
 
 <p align="center">
   <a href="https://zeeshana07x.github.io" target="_blank">
@@ -15,13 +15,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeeshana07x&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
 <div align="center">
 
-  🔭 Currently building: <strong>Next.js apps, AI products, and innovative web experiences</strong>
+  🚀 **Currently Building:** AI products, full-stack web applications, and scalable startup MVPs
 
 </div>
 
@@ -35,32 +31,54 @@
 
 <hr />
 
-<h2 align="center">🚀 Featured Products & Projects</h2>
+<h2 align="center">🚀 Live Products & Startups</h2>
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **ShowMeYour.site** | Startup Directory - Discover and showcase innovative startups | [Visit →](https://showmeyour.site) |
-| **Reeler.pro** | AI Ad Builder for High-Converting Video Ads | [Visit →](https://reeler.pro) |
-| **MagicKite.video** | AI-driven storytelling and content creation app | [Visit →](https://magickite.video) |
+| Product | Description | Status |
+|---------|-------------|--------|
+| **[ShowMeYour.site](https://showmeyour.site)** | Startup Directory - Discover and showcase innovative startups | 🟢 Live |
+| **[Reeler.pro](https://reeler.pro)** | AI Ad Builder for High-Converting Video Ads | 🟢 Live |
+| **[MagicKite.video](https://magickite.video)** | AI-driven storytelling and content creation app | 🟢 Live |
 
 <hr />
 
-<h2 align="center">💡 What I like building</h2>
+<h2 align="center">💡 Full-Stack Developer & Startup Builder</h2>
 
-- Full-stack web apps with modern UX
-- AI-powered products and automation workflows
-- Video generation and content creation tools
-- Developer tooling and productivity products
-- Clean, scalable interfaces and thoughtful product experiences
+**What I Build:**
+- 🌐 Full-stack web applications with modern UX and scalable architecture
+- 🤖 AI-powered products and automation workflows
+- 🎬 Video generation and content creation tools
+- 📱 Mobile-friendly progressive web apps
+- 🛠️ Developer tools and productivity products
+- 💼 Startup MVPs and production systems
+
+**Tech Expertise:**
+- Frontend: React, Next.js, TypeScript, Tailwind CSS
+- Backend: Node.js, Python, databases & APIs
+- DevOps: Git, Linux, deployment & scaling
+- Design: Figma, UX/UI principles, responsive design
+
+<hr />
+
+<h2 align="center">🎯 Focus Areas</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-Products-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Startup-Builder-purple?style=for-the-badge" />
+</p>
 
 <hr />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Video%20Tech-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Product%20Building-purple?style=for-the-badge" />
+  <strong>Open to collaborations, partnerships, and building the next big thing together.</strong>
 </p>
 
 <p align="center">
-  <i>Building ideas into useful products, one project at a time.</i>
+  <i>Shipping products that matter, one startup at a time.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zeeshana07x">📊 View my repos</a> • 
+  <a href="https://zeeshana07x.github.io">🔗 Portfolio</a> • 
+  <a href="https://twitter.com/zeeshana07x">🐦 Twitter</a>
 </p>
