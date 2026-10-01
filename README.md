@@ -1,84 +1,94 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zeeshana07x.zeeshana07x" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Zeeshan;+Full-Stack+Developer+%26+Startup+Builder;" />
-</h1>
-
-<h3 align="center">Building AI-powered products and full-stack web experiences. Turning ideas into scalable startups.</h3>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Zeeshan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%26%20Startup%20Builder&descSize=20&descAlignY=58" />
+</p>
 
 <p align="center">
-  <a href="https://zeeshana07x.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/zeeshana07x" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/zeeshana07x">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5A0&center=true&vCenter=true&width=620&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+Zeeshan;Building+AI-powered+products;Turning+ideas+into+scalable+startups;Shipping+fast.+Learning+faster." alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://zeeshana07x.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/zeeshana07x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://twitter.com/zeeshana07x"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Currently_Building-AI_products_%7C_Full--stack_apps_%7C_Startup_MVPs-00F5A0?style=flat-square&labelColor=0D1117" />
+</p>
+
+---
+
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,html,css,tailwind,supabase,python,rust,java,kotlin,linux,vscode,git,github,figma&perline=9&theme=dark" alt="Tech stack" />
+</p>
+
+---
+
+<h2 align="center">🚀 Live Products</h2>
+
 <div align="center">
 
-  🚀 **Currently Building:** AI products, full-stack web applications, and scalable startup MVPs
+| Product | What it does | Status |
+|:--|:--|:--:|
+| **[ShowMeYour.site](https://showmeyour.site)** | Startup directory to discover and showcase startups | 🟢 Live |
+| **[Reeler.pro](https://reeler.pro)** | AI ad builder for high-converting video ads | 🟢 Live |
+| **[MagicKite.video](https://magickite.video)** | AI storytelling and short-form video creation | 🟢 Live |
 
 </div>
 
-<hr />
+---
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<h2 align="center">🛠️ What I Build</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,html,css,tailwind,python,rust,java,kotlin,linux,vscode,git,github,figma" alt="Tech stack" />
+
+| 🌐 Web Apps | 🤖 AI Products | 🎬 Video Tools |
+|:--:|:--:|:--:|
+| Modern UX, scalable architecture | Automation workflows, AI-first SaaS | Generation and content creation |
+
+| 📱 PWAs | 🧰 Dev Tools | 💼 Startup MVPs |
+|:--:|:--:|:--:|
+| Mobile-friendly, installable | Productivity products | Prototype to production |
+
 </div>
 
-<hr />
+---
 
-<h2 align="center">🚀 Live Products & Startups</h2>
-
-| Product | Description | Status |
-|---------|-------------|--------|
-| **[ShowMeYour.site](https://showmeyour.site)** | Startup Directory - Discover and showcase innovative startups | 🟢 Live |
-| **[Reeler.pro](https://reeler.pro)** | AI Ad Builder for High-Converting Video Ads | 🟢 Live |
-| **[MagicKite.video](https://magickite.video)** | AI-driven storytelling and content creation app | 🟢 Live |
-
-<hr />
-
-<h2 align="center">💡 Full-Stack Developer & Startup Builder</h2>
-
-**What I Build:**
-- 🌐 Full-stack web applications with modern UX and scalable architecture
-- 🤖 AI-powered products and automation workflows
-- 🎬 Video generation and content creation tools
-- 📱 Mobile-friendly progressive web apps
-- 🛠️ Developer tools and productivity products
-- 💼 Startup MVPs and production systems
-
-**Tech Expertise:**
-- Frontend: React, Next.js, TypeScript, Tailwind CSS
-- Backend: Node.js, Python, databases & APIs
-- DevOps: Git, Linux, deployment & scaling
-- Design: Figma, UX/UI principles, responsive design
-
-<hr />
-
-<h2 align="center">🎯 Focus Areas</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Development-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation-Products-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Startup-Builder-purple?style=for-the-badge" />
-</p>
-
-<hr />
-
-<p align="center">
-  <strong>Open to collaborations, partnerships, and building the next big thing together.</strong>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeeshana07x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshana07x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <i>Shipping products that matter, one startup at a time.</i>
+  <img src="https://streak-stats.demolab.com?user=zeeshana07x&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeshana07x">📊 View my repos</a> • 
-  <a href="https://zeeshana07x.github.io">🔗 Portfolio</a> • 
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshana07x&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/zeeshana07x/zeeshana07x/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<h3 align="center">🤝 Open to collaborations, partnerships, and building the next big thing together.</h3>
+
+<p align="center"><i>Shipping products that matter, one startup at a time.</i></p>
+
+<p align="center">
+  <a href="https://github.com/zeeshana07x?tab=repositories">📊 Repos</a> •
+  <a href="https://zeeshana07x.github.io">🔗 Portfolio</a> •
   <a href="https://twitter.com/zeeshana07x">🐦 Twitter</a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
